@@ -46,7 +46,7 @@ dep config:dump
 
 ### deploy_path
 
-There to deploy application on remote host.
+Where to deploy application on remote host.
 
 ### ssh_multiplexing
 
